@@ -55,3 +55,17 @@ git log
 
 git switch
 ```
+
+## renaming and deleting branch
+
+> To rename a branch :
+
+```
+git branch -m <branch name>
+```
+
+> To delete a branch :
+
+```
+git branch -d <branch name>
+```
